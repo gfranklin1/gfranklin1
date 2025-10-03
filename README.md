@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garrett</h1>
 <h3 align="center">A passionate Computer Science and Mathematics student building intelligent systems and solving complex problems.</h3>
 
-I'm a dual-degree student at the **University of Maryland**, diving deep into the worlds of **Machine Learning**, **Software Engineering**, and **Data Science**. I love the challenge of building robust, efficient software, whether it's an end-to-end data validation pipeline, or an AI-powered game mechanic.
+I'm a dual-degree student at the **University of Maryland - College Park**, diving deep into the worlds of **Machine Learning**, **Software Engineering**, and **Data Science**. I love the challenge of building robust, efficient software, whether it's an end-to-end data validation pipeline, or an AI-powered game mechanic.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfranklin1&label=Profile%20views&color=0e75b6&style=flat" alt="gfranklin1" /> </p>
 
