@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=220&lines=Hi+%F0%9F%91%8B%2C+I'm+Garrett" alt="Typing SVG" /></a></h1>
 <h3 align="center">CS (ML) + Math @ UMD</h3>
 
-I'm a dual-degree student at the  **University of Maryland - College Park**, diving deep into the worlds of **Machine Learning**, **Software Engineering**, and **Data Science**. I love the challenge of building robust, efficient software, whether it's an end-to-end data validation pipeline, or an AI-powered game mechanic.
+I'm a dual-degree student at the **University of Maryland - College Park**, diving deep into the worlds of **Software Engineering**, **Machine Learning** and **Data Science**. I love the challenge of building robust, efficient software, whether it's an end-to-end data validation pipeline, or an AI-powered game mechanic.
 
 - 🌱 I’m currently learning **Prompt Engineering, Machine Learning, and the Unity Game Engine**
 
