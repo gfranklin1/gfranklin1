@@ -4,9 +4,9 @@
 
 <br/>
 
-I'm a junior at **University of Maryland – College Park** studying CS (Machine Learning) and Mathematics. I like building things that are fast, reliable, and a little fun — whether that's a distributed data pipeline, a multiplayer game, or an AI-powered tool. Always looking for the next interesting problem to dig into.
+I'm a junior at **University of Maryland – College Park** studying CS (Machine Learning) and Mathematics. I like building things that are fast, reliable, and a little fun, whether that's a distributed data pipeline, a multiplayer game, or an AI-powered tool. Always looking for the next interesting problem to dig into.
 
-- 🎮 Working on **Tron XR** — mixed reality disc battle game in Unity for Meta Quest 3
+- 🎮 Working on **Tron XR**: a mixed reality disc battle game in Unity for Meta Quest 3
 - 🤖 VP of **Claude Builders Club at UMD**
 - ⚡ Fun fact: I've solved a Rubik's cube blindfolded
 
