@@ -4,16 +4,14 @@
 
 <br/>
 
-I'm a senior at **University of Maryland, College Park** studying Computer Science (Machine Learning) and Mathematics. I like building things across systems, ML, and game development - especially when there's something new for me to learn along the way. 
+I'm a senior at **University of Maryland, College Park** studying Computer Science (Machine Learning) and Mathematics. I like building things across systems, ML, and game development.
 
-Currently, I'm interning at **Zipline**, working on path planning and geospatial software for autonomous drone delivery.
-
-
-- 🚁 **SWE Intern @ Zipline** - Flight Software, Maps & Routing
-- 💳 Previously: **SWE Intern @ Capital One** - Card Data, Depersonalization Ecosystem
+- ⚡ **MLE Intern @ Tesla** - Robotaxi, Charging Data Modeling & ML (Spring 2027)
+- 🚁 **SWE Intern @ Zipline** - Flight Software, Maps & Routing (Fall 2026)
+- 💳 **SWE Intern @ Capital One** - Card Data, Depersonalization Ecosystem (Summer 2026)
 - 🎮 Working on **Tron XR**: a mixed reality disc battle game in Unity for Meta Quest 3
 - 🤖 VP of **Claude Builders Club at UMD**
-- ⚡ Fun fact: I've solved a Rubik's cube blindfolded
+- 🧩 Fun fact: I've solved a Rubik's cube blindfolded
 
 ---
 
