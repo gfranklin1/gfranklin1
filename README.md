@@ -7,6 +7,7 @@
 I'm a senior at **University of Maryland, College Park** studying Computer Science (Machine Learning) and Mathematics. I like building things across systems, ML, and game development.
 
 - ⚡ **MLE Intern @ Tesla** - Robotaxi, Charging Data Modeling & ML (Spring 2027)
+- 📡 **SWE @ SubVysion (YC S26)** - Subsurface Mapping & Visualization (Fall/Winter 2026)
 - 🚁 **SWE Intern @ Zipline** - Flight Software, Maps & Routing (Fall 2026)
 - 💳 **SWE Intern @ Capital One** - Card Data, Depersonalization Ecosystem (Summer 2026)
 - 🎮 Working on **Tron XR**: a mixed reality disc battle game in Unity for Meta Quest 3
